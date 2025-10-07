@@ -1,7 +1,5 @@
 # 🚗 Sistema de Gerenciamento de Veículos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Este projeto é uma **atividade avaliativa de Programação Java** que implementa um sistema simples de gerenciamento de veículos, utilizando **orientação a objetos**, **herança**, **classes abstratas** e **métodos de acesso**.
 
